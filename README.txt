@@ -1,4 +1,4 @@
-# JavaScript Calculator with History
+## JavaScript Calculator with History
 
 This is a set of JavaScript functions that provide basic arithmetic operations (addition, subtraction, multiplication, and division) and maintains a history of all calculations performed during the session.
 
